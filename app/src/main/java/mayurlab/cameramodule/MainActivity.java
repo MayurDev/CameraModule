@@ -46,7 +46,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
     protected void onSaveInstanceState(Bundle outState) {
         outState.putString("path", path);
         super.onSaveInstanceState(outState);
-    }
+    }  
 
 
     /*
