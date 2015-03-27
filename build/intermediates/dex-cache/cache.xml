@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/indianic/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.3/a85588bec3e2c4584d593d3f15df1677321bca72/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Users/indianic/Documents/AndroidStudio/studio_workspace/CameraModule/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-f4c3cba28ee652a3580afb05135e205d2fba0589.jar" />
+    </item>
+
+</items>
