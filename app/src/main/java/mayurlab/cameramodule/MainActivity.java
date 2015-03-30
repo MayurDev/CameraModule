@@ -39,6 +39,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
         mBtnCamera.setOnClickListener(this);
         if (savedInstanceState != null) {
             path = savedInstanceState.getString("path");
+
         }
     }
 

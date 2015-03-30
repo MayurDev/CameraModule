@@ -19,7 +19,7 @@
     <ImageView  android:id="@+id/main_iv_privew"
         android:layout_width="fill_parent"
         android:layout_height="match_parent"
-android:background="@drawable/ic_launcher"
+android:src="@drawable/ic_launcher"
         android:layout_above="@+id/main_btn_capture"/>
 
 </RelativeLayout>
