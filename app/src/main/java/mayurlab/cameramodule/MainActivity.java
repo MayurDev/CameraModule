@@ -18,7 +18,7 @@ import com.nostra13.universalimageloader.core.ImageLoader;
 import mayurlab.cameramodule.util.CameraUtil;
 
 /**
- * Created by "Mayur Solanki" on 26/03/15.
+ * Created by "Mayur Solanki" on 26/03/15. changes
  */
 public class MainActivity extends Activity implements View.OnClickListener {
 
